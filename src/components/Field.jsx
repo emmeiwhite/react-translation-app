@@ -1,4 +1,4 @@
-import Flower from "./svg/flower";
+import Flower from "./../svg/Flower.jsx";
 import PropTypes from "prop-types";
 
 function Field({ value, onHandleChange }) {

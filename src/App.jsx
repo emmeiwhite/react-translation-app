@@ -1,5 +1,12 @@
+import Field from "./components/Field";
+import "./index.css";
+
 function App() {
-  return <section>React Vite App!</section>;
+  return (
+    <div>
+      <Field />
+    </div>
+  );
 }
 
 export default App;
